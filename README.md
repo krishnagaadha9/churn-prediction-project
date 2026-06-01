@@ -38,3 +38,5 @@ XGBoost, LightGBM, SMOTE, Matplotlib, Seaborn
 ## Files
 - churn_prediction_project.ipynb — full analysis
 - lightgbm_churn_model.pkl — saved model
+## View Notebook
+[Click to view full notebook](https://nbviewer.org/github/krishnagaadha9/churn-prediction-project/blob/main/churn_prediction_project.ipynb)
